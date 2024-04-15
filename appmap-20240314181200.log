@@ -1,0 +1,65 @@
+18:12:00.893 [main] WARN AppMapConfig.load: 11 patterns found in config, startup performance may be impacted
+18:12:00.893 [main] INFO Agent.premain: To disable the automatic creation of this log file, set the system property appmap.disableLogFile to 'true'
+18:12:00.893 [main] INFO Agent.premain: Agent version 1.26.4, current time mills: 1710420120763
+18:12:00.893 [main] INFO Agent.premain: config: {
+	"configFile":"/Users/riverma/Desktop/DSA_PRACTICE_2024/DSA_PREP_2024/appmap.yml",
+	"name":"DSA_PREP_2024",
+	"packages":[{
+		"allMethods":true,
+		"exclude":[],
+		"path":"Arrays",
+		"shallow":false
+	},{
+		"allMethods":true,
+		"exclude":[],
+		"path":"BigIntegerAndBigDecimal",
+		"shallow":false
+	},{
+		"allMethods":true,
+		"exclude":[],
+		"path":"DSA_SHEET",
+		"shallow":false
+	},{
+		"allMethods":true,
+		"exclude":[],
+		"path":"HeapDataStructure",
+		"shallow":false
+	},{
+		"allMethods":true,
+		"exclude":[],
+		"path":"Oops",
+		"shallow":false
+	},{
+		"allMethods":true,
+		"exclude":[],
+		"path":"Pattern",
+		"shallow":false
+	},{
+		"allMethods":true,
+		"exclude":[],
+		"path":"Recursion",
+		"shallow":false
+	},{
+		"allMethods":true,
+		"exclude":[],
+		"path":"Rough",
+		"shallow":false
+	},{
+		"allMethods":true,
+		"exclude":[],
+		"path":"Searching",
+		"shallow":false
+	},{
+		"allMethods":true,
+		"exclude":[],
+		"path":"StringBuffer",
+		"shallow":false
+	},{
+		"allMethods":true,
+		"exclude":[],
+		"path":"Strings",
+		"shallow":false
+	}]
+}
+18:12:00.938 [main] INFO Agent.premain: System properties: {java.specification.version=17, sun.jnu.encoding=UTF-8, java.class.path=/Users/riverma/Desktop/DSA_PRACTICE_2024/DSA_PREP_2024/out/production/DSA_PREP_2024, java.vm.vendor=Oracle Corporation, sun.arch.data.model=64, java.vendor.url=https://java.oracle.com/, user.timezone=Asia/Kolkata, java.vm.specification.version=17, os.name=Mac OS X, sun.java.launcher=SUN_STANDARD, user.country=IN, sun.boot.library.path=/Users/riverma/latest.jdk/Contents/Home/lib, sun.java.command=Searching.BinarySearch, http.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, jdk.debug=release, sun.cpu.endian=little, user.home=/Users/riverma, user.language=en, java.specification.vendor=Oracle Corporation, java.version.date=2022-01-18, java.home=/Users/riverma/latest.jdk/Contents/Home, file.separator=/, java.vm.compressedOopsMode=Zero based, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, java.specification.name=Java Platform API Specification, appmap.config.file=/Users/riverma/Desktop/DSA_PRACTICE_2024/DSA_PREP_2024/appmap.yml, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, ftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16, java.runtime.version=17.0.2+8-86, user.name=riverma, path.separator=:, os.version=14.3, java.runtime.name=OpenJDK Runtime Environment, file.encoding=UTF-8, java.vm.name=OpenJDK 64-Bit Server VM, java.vendor.url.bug=https://bugreport.java.com/bugreport/, java.io.tmpdir=/var/folders/2j/qjnbfwf55cb9x7w0ckvvsmbh0000gq/T/, java.version=17.0.2, user.dir=/Users/riverma/Desktop/DSA_PRACTICE_2024/DSA_PREP_2024, os.arch=aarch64, java.vm.specification.name=Java Virtual Machine Specification, native.encoding=US-ASCII, java.library.path=/Users/riverma/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:., java.vm.info=mixed mode, sharing, java.vendor=Oracle Corporation, java.vm.version=17.0.2+8-86, sun.io.unicode.encoding=UnicodeBig, socksNonProxyHosts=local|*.local|169.254/16|*.169.254/16, java.class.version=61.0}

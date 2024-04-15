@@ -1,0 +1,38 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­ώ›Κύÿÿÿÿ8°γύ’λ1
+A
+java:S1659Q"Declare "n" on a separate line.(ϊγ¤Κϊÿÿÿÿ8τξύ’λ1
+X	java:S125	"<This block of commented-out lines of code should be removed.(“–π8ωξύ’λ1
+]	java:S1251"<This block of commented-out lines of code should be removed.(±θÿιϊÿÿÿÿ8ωξύ’λ1
+L	java:S106="+Replace this use of System.out by a logger.(™» –ϋÿÿÿÿ8ύξύ’λ1
+]	java:S125@"<This block of commented-out lines of code should be removed.(¶έΌΡύÿÿÿÿ8ÿξύ’λ1
+]	java:S125@"<This block of commented-out lines of code should be removed.(¶έΌΡύÿÿÿÿ8€ού’λ1
+F	java:S106a"+Replace this use of System.out by a logger.(ό„κ!8ƒού’λ1
+L	java:S106h"+Replace this use of System.out by a logger.(®ύαλϋÿÿÿÿ8„ού’λ1
+_
+java:S1126—"AReplace this if-then-else statement by a single return statement.(–Χκ8ού’λ1
+^	java:S125°"<This block of commented-out lines of code should be removed.(‡ ‹Ζύÿÿÿÿ8‘ού’λ1
+_
+java:S1126Χ"AReplace this if-then-else statement by a single return statement.(ΜώΉΏ8“ού’λ1
+u
+java:S3776ί"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(›€‰σϋÿÿÿÿ8”ού’λ1
+E
+java:S1659""Declare "high" on a separate line.(‰½ΡΦύÿÿÿÿ8ού’λ1
+p
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(σ®–ΰ8™ού’λ1
+d
+java:S1659"ADeclare "high" and all following declarations on a separate line.(ε¬Υ ύÿÿÿÿ8ού’λ1
+`
+java:S1659ί"BDeclare "floor" and all following declarations on a separate line.(―Σ†8ού’λ1
+i
+java:S1659ψ"FDeclare "lastoccur" and all following declarations on a separate line.(­²²―ψÿÿÿÿ8§ού’λ1
+J
+java:S1144†",Remove this unused private "findmin" method.(¶’ιΎ8«ού’λ1
+W
+java:S1144"9Remove this unused private "searchInRotatedArray" method.(σ®–ΰ8«ού’λ1
+R
+java:S1144Θ"/Remove this unused private "lowerbound" method.(ΖΙ©ϊÿÿÿÿ8«ού’λ1
+X
+java:S1144έ"5Remove this unused private "findfloorandciel" method.(ΪγΙÿÿÿÿÿ8«ού’λ1
+X
+java:S1144φ":Remove this unused private "firstAndLastOccurance" method.(Ηςπι8«ού’λ1

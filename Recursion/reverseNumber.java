@@ -12,7 +12,6 @@ public class reverseNumber {
 
         System.out.println(reversenumber2(54321,0));
 
-        countZeros (10001, 0);
 
 
     }
@@ -54,19 +53,5 @@ public class reverseNumber {
         return reversenumber2(n / 10, ans);
     }
 
-    private static int countZeros (int n, int count){
-
-        if(n<10){
-            return count;
-        }
-        if(n==0){
-            count++;
-        }
-
-       return countZeros(n/10,count);
-
-
-
-    }
 
 }

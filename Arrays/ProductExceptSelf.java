@@ -6,7 +6,7 @@ public class ProductExceptSelf {
 
     public static void main(String[] args) {
 
-        int[] nums = {-1,1,0,-3,3};
+        int[] nums = {1,2,3,4};
 //        1 2 6 24
 //        24 24 12 4
 

@@ -1,0 +1,16 @@
+
+s	java:S1275"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8ùôý’ë1
+Q
+java:S10661"/Merge this if statement with the enclosing one.(©èøóýÿÿÿÿ8ûôý’ë1
+J
+java:S5411 "(Use a primitive boolean expression here.(„™»Šøÿÿÿÿ8ýôý’ë1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ý“ô©8ýôý’ë1
+F	java:S106"+Replace this use of System.out by a logger.(ü„ê!8²õý’ë1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8»õý’ë1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¼õý’ë1
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8¼õý’ë1
+U
+java:S1144"9Remove this unused private "firstMissingPositive" method.(Žð´G8½õý’ë1
