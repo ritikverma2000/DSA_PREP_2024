@@ -58,8 +58,6 @@ public class HashMapFinal<K, V> {
         if ((float) (size) / list.size() > lf) {
             reHash();
         }
-
-
         entities.add(new Entity(key, value));
         size++;
 
